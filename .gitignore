@@ -1,4 +1,4 @@
 node_modules
-resources
-views
+partials
 scss
+layouts
